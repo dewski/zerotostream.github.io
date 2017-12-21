@@ -1,9 +1,8 @@
 # Site settings
 title: Zero To Stream
 email: me@garrettbjerkhoel.com
-description: > # Writer Theme is a responsive template
- focussed on typography, minimal design and
-  quality photography built using the Jekyll platform.
+description: >
+ Follow along and learn how to become a successful streamer on Twitch and YouTube.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zeroto.streams" # the base hostname & protocol for your site
 enable_retina: true
